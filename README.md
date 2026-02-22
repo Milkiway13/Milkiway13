@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Python and Kotlin
 - 📫 How to reach me? Discord: ._milkiway.
 - 😄 Pronouns: she/her
-![Your Name's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milkiway13&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Milkiway13&layout=compact&theme=dark)
 
